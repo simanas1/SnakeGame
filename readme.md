@@ -1,4 +1,4 @@
-#SnakeGame
+Snake Game
 
 My first game coded in C++ using OpenGL.
 
